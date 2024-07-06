@@ -1,10 +1,34 @@
-# Project3_CSCI_5448
+# Car Dealership Simulation in Java
 
-Team Members - Omkar Yeole, Abhishek Limaye
+## Overview
+
+The Car Dealership Simulation is a Java-based project that simulates the operations of a car dealership. Users can engage in activities such as buying, selling, repairing, cleaning, and racing cars. The simulation leverages Object-Oriented Programming (OOP) principles and incorporates several common software design patterns.
+
+# Features
+
+**Car Transactions:** Simulate the buying and selling of cars.
+
+**Maintenance Services:** Include car repair and cleaning operations.
+
+**Racing Events:** Users can participate in racing events to check which racer is the best.
+
+**Design Patterns:** Utilizes design patterns such as Observer, Strategy, Decorator, Factory, Singleton, and Command for modular and maintainable code.
+
+**UML Diagrams:** Includes comprehensive UML diagrams to illustrate the interactions between different classes, methods, and variables.
+
+**Simulation Results:** View the results of a 30-day simulation run in the SimResults.txt file.
+
+# Technologies Used
+
+**Programming Language:** Java.
+
+**Design Patterns:** Observer, Strategy, Decorator, Factory, Singleton, Command.
+
+**Documentation:** UML Diagrams.
 
 Java version - 19.0.1
 
-Assumptions made in the code:
+# Assumptions made in the code:
 
 1) Day 1 is considered as Monday. Therefore the 7th day, 14th day, 21st day and 28th days are Sundays.
 
@@ -51,3 +75,30 @@ Assumptions made in the code:
 22) Sale bonus for Motorcycles, Monster Trucks and Electric Cars is 150, 175, 200.
 
 23) BudgetCar does not enter Race Events while LuxuryCar and SuperCar enter Race Events.
+
+
+# Usage
+
+**Buy and Sell Cars:** Simulate transactions to buy and sell cars within the dealership.
+
+**Repair and Clean Cars:** Perform maintenance tasks to keep cars in top condition.
+
+**Race Cars:** Engage in racing events to evaluate driver performance.
+
+**View Results:** After running the simulation, check the SimResults.txt file for a summary of the 30-day simulation activities.
+
+# UML Diagrams
+
+The project includes UML diagrams that provide a visual representation of the system's structure and interactions:
+
+**Class Diagrams:** Illustrate the static structure of the system, showing classes and their relationships.
+
+**Sequence Diagrams:** Show how objects interact in a particular sequence.
+
+**Activity Diagrams:** Represent the workflow of various processes within the system.
+
+# Contact
+
+For any questions or further information, you can reach me at abhisheklimaye97@gmail.com.
+
+Thank you for visiting the Car Dealership Simulation project!
